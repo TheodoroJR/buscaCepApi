@@ -1,0 +1,47 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "unidade": "",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": 3550308,
+    "gia": "1004",
+    "ddd": 11,
+    "siafi": 7107
+  },
+  {
+    "cep": "19885-350",
+    "logradouro": "Rua Santa Rita",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Vila São Roque",
+    "localidade": "Cândido Mota",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": 3510005,
+    "gia": "2495",
+    "ddd": 18,
+    "siafi": 6301
+  },
+  {
+    "cep": "19880-504",
+    "logradouro": "Rua Jaime Rossi",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Jardim Santa Lucia",
+    "localidade": "Cândido Mota",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": 3510005,
+    "gia": "2495",
+    "ddd": 18,
+    "siafi": 6301
+  }
+]
